@@ -1,5 +1,5 @@
 # arm-binaries
-Collection of statically compiled binaries for ARM32 to aid in Reverse Engineering and debugging of ARM devices
+Collection of statically compiled binaries for ARM32 to aid in Reverse Engineering and debugging on ARM devices
 
 ## Included Binaries
 * gdbserver 13.2
